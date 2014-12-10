@@ -1,6 +1,7 @@
 // NSFetchedResultsControllerDelegate
 // Placeholders for the fetched results controller delegate methods
 //
+// IDECodeSnippetCompletionPrefix: frcd
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 487D3744-8DD3-4468-9C5A-4EC7B4C7F73D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
