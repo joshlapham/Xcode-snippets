@@ -11,5 +11,5 @@
     <#statements#>
 }
 @catch (NSException *exception) {
-    NSLog(@"EXCEP)
+    NSLog(@"EXCEPTION: %@", [)
 }
