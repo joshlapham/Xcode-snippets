@@ -1,6 +1,6 @@
 // MFMailComposeViewController Initialization & Delegate
 MFMailComposeViewController Initialization & Delegate
-// 
+// Methods required to use the iOS Mail Composer
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 349E5726-B9E9-49A3-9D27-D832C23DF90C
