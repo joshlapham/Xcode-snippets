@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 7390777E-5E4D-47C8-9E93-C7F3CBE5763F
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 #pragma mark - UICollectionViewDataSource
 
 - (NSInteger)collectionView:(UICollectionView *)collectionView
