@@ -1,6 +1,7 @@
 // NSFetchedResultsController
 // Boilerplate for creating an NSFetchedResultsController
 //
+// IDECodeSnippetCompletionPrefix: frc
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 7A813DBD-E35C-4957-BAAE-79DC7BE25065
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
