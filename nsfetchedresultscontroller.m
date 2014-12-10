@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 7A813DBD-E35C-4957-BAAE-79DC7BE25065
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 NSFetchRequest *fetchRequest = [[NSFetchRequest alloc] initWithEntityName:<#(NSString *)#>];
 fetchRequest.predicate = [NSPredicate predicateWithFormat:<#(NSString *), ...#>];
 fetchRequest.sortDescriptors = @[<#(NSSortDescriptor *), ...#>];
