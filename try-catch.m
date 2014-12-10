@@ -1,5 +1,5 @@
 // Try-Catch
-// Try-Catch exception block
+// Try-Catch exceptions
 //
 // IDECodeSnippetCompletionPrefix: trycatch
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
@@ -12,7 +12,4 @@
 }
 @catch (NSException *exception) {
     <#handler#>
-}
-@finally {
-    <#statements#>
 }
