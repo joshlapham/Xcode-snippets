@@ -1,24 +1,20 @@
 // Core Data Fetch
-// Fetch managed objects, with optional filtering and sorting.
+// 
 //
-// IDECodeSnippetCompletionPrefix: fetch
-// IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 06B72D2F-B181-4547-8208-A4FE9275AAD6
+// IDECodeSnippetCompletionScopes: [ClassImplementation]
+// IDECodeSnippetIdentifier: 64880C3D-32E4-4AA5-A45D-A9024D26B37A
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
-// IDECodeSnippetVersion: 1
-NSFetchRequest *fetchRequest = [[NSFetchRequest alloc] init];
-NSEntityDescription *entity = [NSEntityDescription entityForName:@"<#Entity name#>" inManagedObjectContext:<#context#>];
-[fetchRequest setEntity:entity];
-// Specify criteria for filtering which objects to fetch
-NSPredicate *predicate = [NSPredicate predicateWithFormat:@"<#format string#>", <#arguments#>];
-[fetchRequest setPredicate:predicate];
-// Specify how the fetched objects should be sorted
-NSSortDescriptor *sortDescriptor = [[NSSortDescriptor alloc] initWithKey:@"<#key#>"
-ascending:YES];
-[fetchRequest setSortDescriptors:[NSArray arrayWithObjects:sortDescriptor, nil]];
+// IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 0
+NSFetchRequest *fetchRequest = [[NSFetchRequest alloc] initWithEntityName:<#entityName#>];
+fetchRequest.predicate = [NSPredicate predicateWithFormat:<#predicateFormat#>];
 
-NSError *error = nil;
-NSArray *fetchedObjects = [<#context#> executeFetchRequest:fetchRequest error:&error];
-if (fetchedObjects == nil) {
-    <#Error handling code#>
+NSSortDescriptor *sortDescriptor = [NSSortDescriptor sortDescriptorWithKey:<#key#> ascending:<#isAscending#> selector:<#selector#>];
+fetchRequest.sortDescriptors = @[sortDescriptor];
+
+NSError *error;
+NSArray *results = [<#context#> executeFetchRequest:fetchRequest error:&error];
+
+if (error) {
+    NSLog(@"%@", error);
 }
