@@ -1,6 +1,7 @@
 // Try-Catch
 // Try-Catch exception block
 //
+// IDECodeSnippetCompletionPrefix: trycatch
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: D22B5B92-FC75-463B-A928-81257EA40FB6
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
