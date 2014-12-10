@@ -1,6 +1,7 @@
 // UICollectionViewDataSource
-// 
+// Placeholders for essential UICollectionViewDataSource delegate methods
 //
+// IDECodeSnippetCompletionPrefix: cvds
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 7390777E-5E4D-47C8-9E93-C7F3CBE5763F
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
