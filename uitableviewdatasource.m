@@ -8,7 +8,7 @@ Placeholders for required UITableViewDataSource delegate methods
 // IDECodeSnippetIdentifier: 53F23A7F-951D-4557-BAC1-687DA42374FC
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 #pragma mark - UITableViewDataSource
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
