@@ -7,7 +7,7 @@ MFMailComposeViewController Initialization & Delegate
 // IDECodeSnippetIdentifier: 349E5726-B9E9-49A3-9D27-D832C23DF90C
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 #import <MessageUI/MessageUI.h>
 
 - (void)presentModalMailComposerViewController:(BOOL)animated {
