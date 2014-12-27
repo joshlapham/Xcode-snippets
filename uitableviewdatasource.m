@@ -1,5 +1,12 @@
 // UITableViewDataSource
 // Placeholders for required UITableViewDataSource delegate methods
+//
+// IDECodeSnippetCompletionPrefix: tvds
+// IDECodeSnippetCompletionScopes: [All]
+// IDECodeSnippetIdentifier: 8BAE3607-2953-40A1-9931-9EBBAEA51297
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 0
 Placeholders for required UITableViewDataSource delegate methods
 Placeholders for required UITableViewDataSource delegate methods
 //
