@@ -1,8 +1,8 @@
-// 
+// UITableViewDataSource
 // Placeholders for required UITableViewDataSource delegate methods
 //
 // IDECodeSnippetCompletionPrefix: tvds
-// IDECodeSnippetCompletionScopes: [All]
+// IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 8BAE3607-2953-40A1-9931-9EBBAEA51297
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
