@@ -1,5 +1,5 @@
 // Log Class & Method Names
-// 
+// Logs current class and method name
 //
 // IDECodeSnippetCompletionPrefix: logmeth
 // IDECodeSnippetCompletionScopes: [CodeBlock]
